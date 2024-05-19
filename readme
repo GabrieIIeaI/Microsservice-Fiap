@@ -1,0 +1,22 @@
+# Microsserviço Simples com Express
+
+## Descrição
+
+Este projeto é um microsserviço simples desenvolvido em Node.js utilizando o framework Express. Ele possui três endpoints principais:
+
+- `GET /` : Endpoint de boas-vindas.
+- `POST /add` : Endpoint para adição de dois números.
+- `POST /subtract` : Endpoint para subtração de dois números.
+
+## Requisitos
+
+- Node.js
+- npm
+
+### Executando o Projeto
+
+1. Instale as dependências listadas em `package.json` com `npm install`.
+2. Execute `npm start` para inicializar o projeto.
+3. Execute `npm test` para rodar os testes.
+
+
